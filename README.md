@@ -1,3 +1,3 @@
 # machine-learning-project: Horse Racing Prediction
-scikit-learn project  
+scikit-learn personal project  
 see more in project spec
